@@ -80,3 +80,4 @@ sectionText.value="";
  }
 
    biho();
+   console.log('hello ');
